@@ -1,4 +1,4 @@
-VPS Startup Script
+VPS Startup Script 宝塔纯净版docker脚本
 ===========
 
 A simple bash script for building basic enviorment
